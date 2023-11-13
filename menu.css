@@ -39,6 +39,10 @@ html, body {
   margin: 0 1rem;
   overflow: hidden;
 }
+.menu > li > a {
+	color:green;
+	text-decoration:none;
+}
 
 .menu-button-container {
   display: none;
